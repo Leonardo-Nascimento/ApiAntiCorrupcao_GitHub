@@ -1,0 +1,12 @@
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\bin\Debug\net6.0\ApiAntiCorrupcao.Infra.deps.json
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\bin\Debug\net6.0\ApiAntiCorrupcao.Infra.dll
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\bin\Debug\net6.0\ApiAntiCorrupcao.Infra.pdb
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.csproj.AssemblyReference.cache
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.AssemblyInfoInputs.cache
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.AssemblyInfo.cs
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.csproj.CoreCompileInputs.cache
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.dll
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\refint\ApiAntiCorrupcao.Infra.dll
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.pdb
+D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ref\ApiAntiCorrupcao.Infra.dll
