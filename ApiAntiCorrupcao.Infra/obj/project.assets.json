@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\LEO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Leo\\Fonte\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Infra\\ApiAntiCorrupcao.Infra.csproj",
+      "projectUniqueName": "D:\\Leo\\Meus Projetos\\defio api anti corrupcao+ApiGitHub\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Infra\\ApiAntiCorrupcao.Infra.csproj",
       "projectName": "ApiAntiCorrupcao.Infra",
-      "projectPath": "D:\\Leo\\Fonte\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Infra\\ApiAntiCorrupcao.Infra.csproj",
-      "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-      "outputPath": "D:\\Leo\\Fonte\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Infra\\obj\\",
+      "projectPath": "D:\\Leo\\Meus Projetos\\defio api anti corrupcao+ApiGitHub\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Infra\\ApiAntiCorrupcao.Infra.csproj",
+      "packagesPath": "C:\\Users\\LEO\\.nuget\\packages\\",
+      "outputPath": "D:\\Leo\\Meus Projetos\\defio api anti corrupcao+ApiGitHub\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Infra\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

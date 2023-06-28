@@ -10,3 +10,15 @@ D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\Api
 D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\refint\ApiAntiCorrupcao.Infra.dll
 D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.pdb
 D:\Leo\Fonte\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ref\ApiAntiCorrupcao.Infra.dll
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\bin\Debug\net6.0\ApiAntiCorrupcao.Infra.deps.json
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\bin\Debug\net6.0\ApiAntiCorrupcao.Infra.dll
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\bin\Debug\net6.0\ApiAntiCorrupcao.Infra.pdb
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.csproj.AssemblyReference.cache
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.AssemblyInfoInputs.cache
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.AssemblyInfo.cs
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.csproj.CoreCompileInputs.cache
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.dll
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\refint\ApiAntiCorrupcao.Infra.dll
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ApiAntiCorrupcao.Infra.pdb
+D:\Leo\Meus Projetos\defio api anti corrupcao+ApiGitHub\ApiAntiCorrupcao_GitHub\ApiAntiCorrupcao.Infra\obj\Debug\net6.0\ref\ApiAntiCorrupcao.Infra.dll

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Leo\\Fonte\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\ApiAntiCorrupcao.Domain.csproj": {}
+    "D:\\Leo\\Meus Projetos\\defio api anti corrupcao+ApiGitHub\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\ApiAntiCorrupcao.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Leo\\Fonte\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\ApiAntiCorrupcao.Domain.csproj": {
+    "D:\\Leo\\Meus Projetos\\defio api anti corrupcao+ApiGitHub\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\ApiAntiCorrupcao.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Leo\\Fonte\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\ApiAntiCorrupcao.Domain.csproj",
+        "projectUniqueName": "D:\\Leo\\Meus Projetos\\defio api anti corrupcao+ApiGitHub\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\ApiAntiCorrupcao.Domain.csproj",
         "projectName": "ApiAntiCorrupcao.Domain",
-        "projectPath": "D:\\Leo\\Fonte\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\ApiAntiCorrupcao.Domain.csproj",
-        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "D:\\Leo\\Fonte\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\obj\\",
+        "projectPath": "D:\\Leo\\Meus Projetos\\defio api anti corrupcao+ApiGitHub\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\ApiAntiCorrupcao.Domain.csproj",
+        "packagesPath": "C:\\Users\\LEO\\.nuget\\packages\\",
+        "outputPath": "D:\\Leo\\Meus Projetos\\defio api anti corrupcao+ApiGitHub\\ApiAntiCorrupcao_GitHub\\ApiAntiCorrupcao.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Octokit": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

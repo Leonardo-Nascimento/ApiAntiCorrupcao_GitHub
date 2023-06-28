@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApiAntiCorrupcao.Domain.Dtos;
+using ApiAntiCorrupcao.Domain.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,36 +10,50 @@ namespace ApiAntiCorrupcao.Controllers
     [ApiController]
     public class GitHubController : ControllerBase
     {
-        // GET: api/<GitHubController>
-        [HttpGet]
-        public IEnumerable<string> Get()
+
+        private readonly IGitHubServices _gitHubServices;
+
+        public GitHubController(IGitHubServices gitHubServices)
         {
-            return new string[] { "value1", "value2" };
+            _gitHubServices = gitHubServices;
         }
 
-        // GET api/<GitHubController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet("GetTotalInfos")]
+        public IActionResult GetTotalInfo([FromQuery] string UserName)
         {
-            return "value";
+            return Ok(_gitHubServices.GetTotalInfo(UserName));
         }
 
-        // POST api/<GitHubController>
-        [HttpPost]
-        public void Post([FromBody] string value)
+        [HttpGet("ListBranchesByProjectName")]
+        public IActionResult ListBranchesByProjectName([FromQuery] string UserName, string projectName)
         {
+            return Ok(_gitHubServices.ListBranchesByProjectName(UserName, projectName));
         }
 
-        // PUT api/<GitHubController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+
+        [HttpGet("GetAllWebhooksByRepository")]
+        public IActionResult GetAllWebhooksByRepository([FromQuery] string UserName, [FromQuery] string projectName, [FromHeaderAttribute] string token )
         {
+            var result = _gitHubServices.GetAllWebhooksByRepository(UserName, projectName, token);
+            return Ok(result);
         }
 
-        // DELETE api/<GitHubController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+
+        [HttpPost("CreateNewRepository")]
+        public IActionResult CreateNewRepository([FromBody] LoginDto login)
         {
+            _gitHubServices.CreateNewRepository(login.userName, login.Senha, login.Token);
+            return Ok("Repository criado com sucesso");
         }
+
+        [HttpPost("CreateWebhookForRepository")]
+        public IActionResult CreateWebhookForRepository([FromQuery] string urlWebhook, [FromQuery] string projectName, [FromBody] LoginDto login)
+        {
+           var result =  _gitHubServices.CreateWebhookForRepository(urlWebhook , login.userName, projectName, login.Token);
+            return Ok(result);
+        }
+
+
+
     }
 }
